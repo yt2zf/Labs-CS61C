@@ -1,2 +1,2 @@
-1. 
-2. 
+1. segfault happen in function ben
+2. line 15
